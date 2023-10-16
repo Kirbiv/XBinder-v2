@@ -1,0 +1,3 @@
+XBinder v2 is a software that make 2 or more files to make 1 exe file that open both of files.
+
+I am not responsible for what you may do with this software!!
